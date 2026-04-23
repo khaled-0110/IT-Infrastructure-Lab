@@ -1,2 +1,3 @@
 # IT-Infrastructure-Lab
-still in progress
+Currently configuring the network topology.
+Goal: Virtualized AD environment with Linux monitoring.
